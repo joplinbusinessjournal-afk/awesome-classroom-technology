@@ -35,6 +35,7 @@ Platforms designed to increase participation, interaction, and active learning.
 - [Kahoot!](https://kahoot.com/) — Game-based learning platform for quizzes and interactive activities.
 - [Nearpod](https://nearpod.com/) — Interactive lesson platform with real-time student engagement tools.
 - [Mentimeter](https://www.mentimeter.com/) — Live polling and interactive presentation platform.
+- [SpinTheWheel.pro](https://spinthewheel.pro/) — Free spin-the-wheel random picker for classrooms: name pickers, decision wheels, and giveaway draws with no signup.
 
 ## Assessment & Feedback
 
