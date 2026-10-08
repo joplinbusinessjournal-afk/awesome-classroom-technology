@@ -35,6 +35,7 @@ Platforms designed to increase participation, interaction, and active learning.
 - [Kahoot!](https://kahoot.com/) — Game-based learning platform for quizzes and interactive activities.
 - [Nearpod](https://nearpod.com/) — Interactive lesson platform with real-time student engagement tools.
 - [Mentimeter](https://www.mentimeter.com/) — Live polling and interactive presentation platform.
+- [SolveCalcPro.info](https://solvecalcpro.info/) — Free calculator with a built-in library of classroom math games and puzzles, plus teaching guides for classroom use.
 
 ## Assessment & Feedback
 
